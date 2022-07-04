@@ -1,0 +1,27 @@
+You are using RSSFeed to generate the news articles and it is pretty handy
+
+How will you save the data now.
+
+You have now used the FeedParser
+to parse RSSFEED
+
+Task1 Figure out how to store the data in the file, store it in a CSV file
+as a dictionary with Key and Value
+
+Ladda ner RSS Reader and see what happens
+
+Task 2 Do the same for Wall Street Journal
+
+Task 3: Scrape the website from Aftonbladet now since you have the article
+
+Task 4: Figure out how to create your own RSS Feed
+
+Task 5: Learn more about RSS Feeed
+
+
+Questions:
+
+What are RSS Readers extension used for.
+
+According to the Lecturer Most popular websites have RSS Feeds
+
